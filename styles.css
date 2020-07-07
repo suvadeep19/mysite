@@ -1,0 +1,27 @@
+body{
+  background-color: skyblue;
+}
+h1
+{
+  color: red;
+  font-style: italic;
+}
+/*
+img{
+  background-color: red;
+}
+*/
+.broccoli{background-color: yellow;
+   background-size: 10px;
+   height: 160px;
+   ;
+}
+.bacon{background-color: red;
+}
+hr{
+border-style: dotted;
+border-width: 1px;
+width: 30%;
+
+
+}
